@@ -1,6 +1,6 @@
 {
   "name": "@sbrow/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Spencer Brower <brower.spencer@gmail.com>",
   "main": ".prettierrc.yml",
   "repository": "git@github.com:sbrow/prettier-config.git",

@@ -1,0 +1,15 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.0.1](https://github.com/sbrow/prettier-config/compare/v1.0.0...v1.0.1) (2019-06-23)
+
+
+### Bug Fixes
+
+* **package.json:** `main` now references correct file. ([f2e41ee](https://github.com/sbrow/prettier-config/commit/f2e41ee))
+
+
+### Build System
+
+* Added `prettier` as a peer dependency ([e4f503e](https://github.com/sbrow/prettier-config/commit/e4f503e))
