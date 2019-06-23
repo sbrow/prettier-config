@@ -2,7 +2,7 @@
   "name": "@sbrow/prettier-config",
   "version": "1.0.0",
   "author": "Spencer Brower <brower.spencer@gmail.com>",
-  "main": ".prettierrc.yaml",
+  "main": ".prettierrc.yml",
   "repository": "git@github.com:sbrow/prettier-config.git",
   "license": "MIT",
   "peerDependencies": {
