@@ -7,5 +7,8 @@
   "license": "MIT",
   "peerDependencies": {
     "prettier": "^1.18.2"
+  },
+  "devDependencies": {
+    "standard-version": "^6.0.1"
   }
 }
